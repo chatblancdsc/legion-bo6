@@ -12,7 +12,7 @@
 
 ### 📁  〢 Setting Up
 
-> Install [Legion TCGP](https://github.com/chatblancdsc/legion-bo6) `IMPORTANT: Install it from realase section.`
+> Install [Legion BO6](https://github.com/chatblancdsc/legion-bo6) `IMPORTANT: Install it from realase section.`
 >
 > Launch it on Windows before your BO6 on Steam or XBox (ONLY PC):
 
